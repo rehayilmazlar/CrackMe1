@@ -1,4 +1,4 @@
-# CrackMe #5
+# CrackMe
 
 This is the fifth challenge from [rehayilmazlar.com](https://rehayilmazlar.com), featuring a reverse-engineering crackme written in x86 assembly.
 
